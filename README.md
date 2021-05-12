@@ -1,6 +1,6 @@
 1. npm install
 2. npm run serve
-3. Open Chrome Inspector console to see the arb opportunity. Data is in main.ts
+3. Visit localhost:8080
 
 Data is fetched from Sushi LP
  
