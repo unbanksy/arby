@@ -1,0 +1,21 @@
+{
+  "name": "arby",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-typescript": "4.3.0",
+    "bootstrap": "^5.0.0-beta3",
+    "core-js": "^3.6.4",
+    "ethers": "^4.0.47",
+    "typescript": "3.8.3",
+    "vue": "^2.6.11",
+    "vue-cli": "^2.9.6",
+    "vue-template-compiler": "^2.6.12",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.3.0"
+  }
+}
