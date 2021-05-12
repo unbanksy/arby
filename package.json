@@ -2,6 +2,7 @@
   "name": "arby",
   "version": "0.0.1",
   "scripts": {
+    "build": "vue-cli-service build",
     "serve": "vue-cli-service serve"
   },
   "dependencies": {
